@@ -1,27 +1,34 @@
 div.img {
-    margin: 5px;
+    margin: 100px;
     border: 1px solid #ccc;
     float: left;
-    width: 180px;
+    width: 300px;
 }
 div.desc {
     padding: 15px;
     text-align: center;
+    margin: 100px;
+    width: 330px;
+    float: left;
+
+
 }
 div.container{
     width:98%;
     margin:1%;
 }
 
-.style-table table{
-    width:70%;
+
+.top-container{
     margin-left:auto;
     margin-right:auto;
+    background-color:#3366cc;
+    text-align: justify;
 }
-.body{
-    align-self: center;
-}
-div.top-container{
-    margin-left: auto;
-    margin-right: auto;
+.a{
+    margin: 100px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 300px;
+
 }
