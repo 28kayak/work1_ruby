@@ -1,5 +1,5 @@
 div.img {
-    margin: 100px;
+    margin: 25px;
     border: 1px solid #ccc;
     float: left;
     width: 300px;
@@ -7,7 +7,7 @@ div.img {
 div.desc {
     padding: 15px;
     text-align: center;
-    margin: 100px;
+    margin: 50px;
     width: 330px;
     float: left;
 
@@ -18,15 +18,20 @@ div.container{
     margin:1%;
 }
 
-
+.title{
+    text-align: center;
+}
 .top-container{
-    margin-left:auto;
+   /* margin-left:auto;
     margin-right:auto;
     background-color:#3366cc;
     text-align: justify;
+    */
+    width: 400px;
+    margin: 0 auto;
 }
 .a{
-    margin: 100px;
+    margin: 50px;
     border: 1px solid #ccc;
     float: left;
     width: 300px;
