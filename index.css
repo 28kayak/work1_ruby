@@ -1,0 +1,27 @@
+div.img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+div.container{
+    width:98%;
+    margin:1%;
+}
+
+.style-table table{
+    width:70%;
+    margin-left:auto;
+    margin-right:auto;
+}
+.body{
+    align-self: center;
+}
+div.top-container{
+    margin-left: auto;
+    margin-right: auto;
+}
