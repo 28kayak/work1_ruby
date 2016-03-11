@@ -6,8 +6,8 @@ div.img {
 }
 div.desc {
     padding: 15px;
-    text-align: center;
-    margin: 50px;
+    text-align: left;
+    margin: 25px;
     width: 330px;
     float: left;
 
@@ -20,6 +20,11 @@ div.container{
 
 .title{
     text-align: center;
+    margin: 25px;
+}
+p.title{
+    text-align: center;
+    background-color: pink;
 }
 .top-container{
    /* margin-left:auto;
@@ -27,11 +32,12 @@ div.container{
     background-color:#3366cc;
     text-align: justify;
     */
-    width: 400px;
+    /*width: 800px;*/
     margin: 0 auto;
+    background-color: chartreuse;
 }
 .a{
-    margin: 50px;
+    margin: 25px;
     border: 1px solid #ccc;
     float: left;
     width: 300px;
